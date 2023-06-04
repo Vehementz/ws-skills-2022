@@ -6,8 +6,8 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Différence entre Agile et SCRUM ❌ / ✔️
-- Expliquer les différents rituels et leur intérêt : ❌ / ✔️
+- Différence entre Agile et SCRUM  ✔️
+- Expliquer les différents rituels et leur intérêt : ✔️
   - Daily Stand Up
   - Sprint planning
   - Retro
@@ -17,8 +17,8 @@
   - SCRUM master
   - Product Owner
   - Stakeholder
-- Comment rédiger une User Story complète ? ❌ / ✔️
-- Qu'est-ce qu'un Product Backlog ? ❌ / ✔️
+- Comment rédiger une User Story complète ? ✔️
+- Qu'est-ce qu'un Product Backlog ?  ✔️
 - Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ✔️
 - A quoi sert le Burndown Chart ? ❌ / ✔️
 - Quelles sont les 2 unités de complexité ? ❌ / ✔️

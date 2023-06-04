@@ -8,8 +8,8 @@
 
 - Le rôle de l'OWASP ✔️
 - Les injections SQL ✔️
-- XSS ❌ / ✔️
-- CRSF ❌ / ✔️
+- XSS  ✔️
+- CRSF  ✔️
 
 ## 💻 J'utilise
 

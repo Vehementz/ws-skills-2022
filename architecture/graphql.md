@@ -8,28 +8,32 @@
 
 - la différence entre REST et GraphQL ✔️
 - les besoins auxquels répond GraphQL ✔️
-- la définition d'un schéma
+- la définition d'un schéma ✔️
 - Query ✔️
 - Mutation ✔️
-- Subscription ❌ / ✔️
+- Subscription  ✔️
 
 ## 💻 J'utilise
 
+
+
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+
+
+### Utilisation dans un projet  ✔️
 
 [lien github](...)
 
-Description :
+Description : Projet perso mit en privé
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ❌ / ✔️
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
 Description :
 

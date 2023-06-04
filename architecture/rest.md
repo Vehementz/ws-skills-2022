@@ -22,15 +22,15 @@
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ✔️
 
 [lien du projet](...)
 
-Description :
+Description : Projets d'entreprise privés
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
-Description :
+Description : Projets d'entreprise privés
 
 ## 🌐 J'utilise des ressources
 
